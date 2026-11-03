@@ -1,0 +1,6 @@
+{
+  "name": "CodeGuard - Agentic Code Efficiency Auditor",
+  "description": "Agentic AI auditor for VS Code & GitHub that evaluates code efficiency against project scale, detects algorithmic bottlenecks, and auto-fixes AI-generated code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
